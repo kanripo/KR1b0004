@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:01:27.759557
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1b0004_WYG_016-1a>¶
 欽定四庫全書¶
 　尚書注疏卷十六¶
@@ -686,6 +688,7 @@
 　¶
 　¶
 　尚書注疏卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR1b0004_WYG_016-39a>¶
 　尚書注疏卷十六考證¶
 蔡仲之命序王命蔡仲傳成王也○成王上疑脫王字¶
@@ -812,4 +815,3 @@
 　¶
 　¶
 　尚書注疏卷十六考證¶
-

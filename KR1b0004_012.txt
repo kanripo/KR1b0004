@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:01:27.645204
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1b0004_WYG_012-1a>¶
 欽定四庫全書¶
 　尚書注疏卷十二¶
@@ -722,6 +724,7 @@
 　¶
 　¶
 　尚書注疏卷十二¶
+#+PROPERTY: JUAN 卷十二考證
 <pb:KR1b0004_WYG_012-41a>¶
 　尚書注疏卷十二考證¶
 旅獒序大保作旅獒疏釋詁云旅陳也○林之竒曰經¶
@@ -848,4 +851,3 @@
 　作伯九命謂之上公二王後亦出封之公也¶
 　¶
 　尚書注疏卷十二考證¶
-

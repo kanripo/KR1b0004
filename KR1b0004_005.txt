@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:01:27.475051
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1b0004_WYG_005-1a>¶
 欽定四庫全書¶
 　尚書注疏卷五¶
@@ -866,6 +868,7 @@
 (四海故堯賜𤣥圭以彰顯之必以天色圭者言天功/成也大禹謨舜美禹功云地平天成是天功成也)¶
 　¶
 　尚書注疏卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR1b0004_WYG_005-49a>¶
 　尚書注疏卷五考證¶
 禹貢疏定山川次秩○次監本訛大今改正¶
@@ -1136,4 +1139,3 @@
 　¶
 　¶
 　尚書注疏卷五考證¶
-

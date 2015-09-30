@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:01:27.668764
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1b0004_WYG_013-1a>¶
 欽定四庫全書¶
 　尚書注疏卷十三¶
@@ -740,6 +742,7 @@
 　¶
 　¶
 　尚書注疏卷十三¶
+#+PROPERTY: JUAN 卷十三考證
 <pb:KR1b0004_WYG_013-42a>¶
 　尚書注疏卷十三考證¶
 康誥酒誥梓材序成王既伐管叔蔡叔以殷餘民封康¶
@@ -866,4 +869,3 @@
 　¶
 　¶
 　尚書注疏卷十三考證¶
-

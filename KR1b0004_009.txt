@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:01:27.573090
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1b0004_WYG_009-1a>¶
 欽定四庫全書¶
 　尚書注疏卷九¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　尚書注疏卷九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR1b0004_WYG_009-27a>¶
 　尚書注疏卷九考證¶
 説命上傳始求得而命之○王樵曰命官有辭自唐虞¶
@@ -560,4 +563,3 @@
 　¶
 　¶
 　尚書注疏卷九考證¶
-

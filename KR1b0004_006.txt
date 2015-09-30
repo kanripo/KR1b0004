@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:01:27.509730
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1b0004_WYG_006-1a>¶
 欽定四庫全書¶
 　尚書注疏卷六¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　尚書注疏卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR1b0004_WYG_006-23a>¶
 　尚書注疏卷六考證¶
 甘誓疏其王曰以下皆是誓之辭也○王曰監本訛至¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　尚書注疏卷六考證¶
-

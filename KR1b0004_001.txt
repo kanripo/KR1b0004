@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書注疏
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:01:27.364803
+#+PROPERTY: ID KR1b0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0004_WYG_001-1a>¶
 欽定四庫全書¶
 　尚書注疏卷一¶
@@ -632,6 +634,7 @@
 　¶
 　¶
 　尚書注疏卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR1b0004_WYG_001-36a>¶
 　尚書注疏卷一考證¶
 虞書○(臣召南/)按監本以虞書堯典為卷第二於義難¶
@@ -776,4 +779,3 @@
 　¶
 　¶
 　尚書注疏卷一考證¶
-
